@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I am Akhil.
+I am Akhil and I code.
 <!--
 **premakhil/premakhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

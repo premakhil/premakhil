@@ -4,7 +4,7 @@ I am Akhil and I code.
 
 
 
-![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=premakhil&show_icons=true&theme=merko)
+![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=premakhil&show_icons=true&theme=dark)
 
 
 <!--

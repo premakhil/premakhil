@@ -4,6 +4,9 @@ I am Akhil and I code.
 
 [![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=premakhil)](https://github.com/anuraghazra/github-readme-stats)
 
+![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=premakhil&show_icons=true&theme=radical)
+
+
 <!--
 **premakhil/premakhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
